@@ -1,2 +1,4 @@
 # Agurez-Gmod-Addons
-my name is agurez and i am a Garrys Mod Developer and i dont have any much interest to continue Developing for an Garrys mod Server so now i create Gmod addons for people and make it open source
+My name is Agurez, and I’m a Garry’s Mod developer with a passion for creating engaging and innovative content. Over time, I realized that my interest in developing for specific Garry’s Mod servers had decreased, so I decided to shift my focus toward creating GMod addons for a wider audience. My goal is to build tools, features, and experiences that other players and developers can enjoy, modify, and learn from.
+
+To support the community and encourage collaboration, I make some of my addons open source. This way, anyone can study my work, contribute improvements, or adapt it for their own projects. By sharing my creations openly, I hope to inspire others, foster creativity, and help the Garry’s Mod community grow stronger and more vibrant.
